@@ -2,7 +2,7 @@ beautifulsoup4==4.9.3
 certifi==2020.12.5
 chardet==4.0.0
 google==3.0.0
-idna==2.10
+idna==3.7
 phonenumbers==8.12.7
 pyfiglet==0.8.post0
 requests==2.25.1
